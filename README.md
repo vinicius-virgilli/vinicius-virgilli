@@ -1,6 +1,6 @@
 ## Boas vindas ao meu perfil :smiley:
 
-Meu nome é Vinicius Silva Virgilli!
+Olá :wave:, Meu nome é Vinicius Silva Virgilli!
 
 
 <br>
