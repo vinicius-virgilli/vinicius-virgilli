@@ -2,6 +2,10 @@
 
 Olá :wave:, Meu nome é Vinicius Silva Virgilli!
 
+Minha relação com a tecnologia começa desde criança com jogos em console. Depois tive contato com programação na faculdade de eng. Mecânica no IFG, na qual cursei 3 anos.
+
+Atualmente na Trybe estou mergulhando cada vez mais fundo na área de tecnologia e estou adorando, apesar das dificuldades.
+
 
 <br>
 
