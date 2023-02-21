@@ -1,6 +1,5 @@
-## Boas vindas ao meu perfil :smiley:
+## Seja bem vindo(a) ao meu Github :smiley:
 
-Olá :wave:, Meu nome é Vinicius Silva Virgilli!
 
 Minha relação com a tecnologia começa desde criança com jogos em console. Depois tive contato com programação na faculdade de eng. Mecânica no IFG, na qual cursei 3 anos.
 
