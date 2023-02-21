@@ -10,9 +10,9 @@ Atualmente na Trybe estou mergulhando cada vez mais fundo no mundo do <strong>de
 <br>
 
 <!-- GITHUB STATUS -->
-<div align="center" style="display-inline-block">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinicius-virgilli&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-virgilli&layout=compact&langs_count=10&theme=dark"/>
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=vinicius-virgilli&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-virgilli&layout=compact&langs_count=10&theme=dark"/>
   
 
   <!-- TEMAS: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
