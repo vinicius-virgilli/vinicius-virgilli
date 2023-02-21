@@ -1,9 +1,8 @@
 ## Seja bem vindo(a) ao meu Github :smiley:
+<br>
+Minha relação com a tecnologia começa desde criança com jogos em console.<br>Depois tive contato com programação na faculdade de eng. Mecânica<br>no IFG, na qual cursei 3 anos.
 
-
-Minha relação com a tecnologia começa desde criança com jogos em console. Depois tive contato com programação na faculdade de eng. Mecânica no IFG, na qual cursei 3 anos.
-
-Atualmente na Trybe estou mergulhando cada vez mais fundo no mundo do <strong>desenvolvimento</strong> e estou <em>adorando</em>, apesar das dificuldades.
+Atualmente na Trybe estou mergulhando cada vez mais fundo no mundo do<br> <strong>desenvolvimento</strong> e estou <em>adorando</em>, apesar das dificuldades.
 
 
 <br>
