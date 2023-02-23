@@ -12,7 +12,7 @@ Atualmente na Trybe estou mergulhando cada vez mais fundo no mundo do<br> <stron
 
 <!-- GITHUB STATUS -->
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=vinicius-virgilli&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats-vinicius-virgilli.vercel.app//api?username=vinicius-virgilli&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-virgilli&layout=compact&langs_count=10&theme=dark"/>
   
 
