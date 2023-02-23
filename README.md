@@ -1,5 +1,8 @@
 ## Seja bem vindo(a) ao meu Github :smiley:
+
+###To read in English <a href="https://github.com/vinicius-virgilli/vinicius-virgilli/blob/main/README-en.md">click here</a>.
 <br>
+
 Minha relação com a tecnologia começa desde criança com jogos em console.<br>Depois tive contato com programação na faculdade de eng. Mecânica<br>no IFG, na qual cursei 3 anos.<br><br>
 
 Atualmente na Trybe estou mergulhando cada vez mais fundo no mundo do<br> <strong>desenvolvimento</strong> e estou <em>adorando</em>, apesar das dificuldades.
