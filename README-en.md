@@ -1,11 +1,11 @@
 ## Welcome to my Github :smiley:
+
+#### Para ler em português <a href="https://github.com/vinicius-virgilli">clique aqui</a>.
 <br>
 
-### Para ler em português <a href="https://github.com/vinicius-virgilli">clique aqui</a>.
+My relationship with technology starts since I was a child with console games.<br>Then I came into contact with programming at the Faculty of Mechanical Engineering<br>at the IFG, where I studied for 3 years.<br>
 
-#### My relationship with technology starts since I was a child with console games.<br>Then I came into contact with programming at the Faculty of Mechanical Engineering<br>at the IFG, where I studied for 3 years.<br><br>
-
-#### Currently at Trybe, I'm diving deeper and deeper into the world of<br> <strong>development</strong> and I'm <em>love it</em>, despite the difficulties.
+Currently at Trybe, I'm diving deeper and deeper into the world of<br> <strong>development</strong> and I'm <em>love it</em>, despite the difficulties.
 
 
 <br>
