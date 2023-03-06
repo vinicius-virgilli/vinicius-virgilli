@@ -3,11 +3,11 @@
 #### Para ler em português <a href="https://github.com/vinicius-virgilli">clique aqui</a>.
 <br>
 
-<p> My relationship with technology starts since I was a child with console games.<br>Then I came into contact with programming at the Faculty of Mechanical Engineering<br>at the IFG, where I studied for 3 years.<br>
+<p>My relationship with technology starts since I was a child with console games.<br>Then I came into contact with programming at the Faculty of Mechanical Engineering<br>at the IFG, where I studied for 3 years.<br>
 
-<p> Currently at Trybe, I'm diving deeper and deeper into the world of<br> <strong>development</strong> and I'm <em>love it</em>, despite the difficulties.
+<p>Currently at Trybe, I'm diving deeper and deeper into the world of<br> <strong>development</strong> and I'm <em>love it</em>, despite the difficulties.
 
-<p> Being a software developer for me is solving problems and building solutions to improve people's lives through technology. This is wonderful!
+<p>Being a software developer for me is solving problems and building solutions to improve people's lives through technology. This is wonderful!
 
 
 <br>
