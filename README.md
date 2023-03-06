@@ -1,13 +1,12 @@
 ## Seja bem vindo(a) ao meu Github :smiley:
 
 #### To read in english <a href="https://github.com/vinicius-virgilli/vinicius-virgilli/blob/main/README-en.md">click here</a>.
-<br>
 
-Minha relação com a tecnologia começa desde criança com jogos em console.<br>Depois tive contato com programação na faculdade de eng. Mecânica<br>no IFG, na qual cursei 3 anos.<br><br>
+<p>Minha relação com a tecnologia começa desde criança com jogos em console.<br>Depois tive contato com programação na faculdade de eng. Mecânica<br>no IFG, na qual cursei 3 anos.
 
-Atualmente na Trybe estou mergulhando cada vez mais fundo no mundo do<br> <strong>desenvolvimento</strong> e estou <em>adorando</em>, apesar das dificuldades.
+<p>Atualmente na Trybe estou mergulhando cada vez mais fundo no mundo do<br> <strong>desenvolvimento</strong> e estou <em>adorando</em>, apesar das dificuldades.
 
-Ser devenvolvedor de software para mim é resolver problemas e construir soluções para melhorar a vida das pessoas através da tecnologia. Isso é maravilhoso! 
+<p>Ser devenvolvedor de software para mim é resolver problemas e construir soluções para melhorar a vida das pessoas através da tecnologia. Isso é maravilhoso! 
 
 
 <br>
