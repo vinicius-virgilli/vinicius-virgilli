@@ -1,6 +1,7 @@
 ## Seja bem vindo(a) ao meu Github :smiley:
 
 #### To read in english <a href="https://github.com/vinicius-virgilli/vinicius-virgilli/blob/main/README-en.md">click here</a>.
+<br>
 
 <p>Minha relação com a tecnologia começa desde criança com jogos em console.<br>Depois tive contato com programação na faculdade de eng. Mecânica<br>no IFG, na qual cursei 3 anos.
 
