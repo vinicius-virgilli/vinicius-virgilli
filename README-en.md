@@ -7,7 +7,7 @@
 
 <p>Currently at Trybe, I'm diving deeper and deeper into the world of<br> <strong>development</strong> and I'm <em>love it</em>, despite the difficulties.
 
-<p>Being a software developer for me is solving problems and building solutions to improve people's lives through technology. This is wonderful!
+<p>Being a software developer for me is solving problems and building solutions, and thus add to society through technology. This is wonderful!
 
 
 <br>
