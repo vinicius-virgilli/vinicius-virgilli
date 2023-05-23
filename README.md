@@ -7,7 +7,7 @@
 
 <p>Atualmente na Trybe estou mergulhando cada vez mais fundo no mundo do<br> <strong>desenvolvimento</strong> e estou <em>adorando</em>, apesar das dificuldades.
 
-<p>Ser devenvolvedor de software para mim é resolver problemas e construir soluções para melhorar a vida das pessoas através da tecnologia. Isso é maravilhoso! 
+<p>Ser devenvolvedor de software para mim é resolver problemas e construir soluções, e assim agregar para a sociedade através da tecnologia. Isso é maravilhoso! 
 
 
 <br>
