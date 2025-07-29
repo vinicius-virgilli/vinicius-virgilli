@@ -1,4 +1,4 @@
-## Seja bem vindo(a) ao meu Github :smiley:
+## Seja bem vindo(a) ao meu Github
 
 <br>
 
