@@ -20,8 +20,6 @@
 
 <!-- REDES SOCIAIS -->
 <div align="center">
-  <a href="https://vinicius-virgilli.github.io" target="_blank"><img src="https://img.shields.io/badge/-Portifólio-%23E4405F?style=for-the-badge&logo&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/vinicius-silva-virgilli/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
    <a href="mailto:vinicius.virgilli3@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%230077B5?style=for-the-badge&logo=Gmail&logoColor=white)"_blank"></a>  
   
   ![](https://visitor-badge.glitch.me/badge?page_id=vinicius-virgilli)
