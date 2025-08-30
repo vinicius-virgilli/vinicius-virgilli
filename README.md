@@ -24,5 +24,5 @@
   
   ![](https://visitor-badge.glitch.me/badge?page_id=vinicius-virgilli)
 
-  ![Snake animation](https://github.com/felipeamorim19/felipeamorim19/blob/output/github-contribution-grid-snake.svg)
+  <!-- ![Snake animation](https://github.com/felipeamorim19/felipeamorim19/blob/output/github-contribution-grid-snake.svg) -->
 </div>
